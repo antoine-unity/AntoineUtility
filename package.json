@@ -1,0 +1,7 @@
+{
+  "name": "antoine.utility",
+  "displayName": "Antoine Utility",
+  "version": "0.2.0-preview",
+  "unity": "2019.2",
+  "description": "Useful utility functions"
+}
